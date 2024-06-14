@@ -1,0 +1,52 @@
+<!DOCTYPE Html>
+<html>
+    <head>
+        <title>Первый Сайт</title>
+        <meta charset="utf-8">
+        <meta name="keywords" content="Мой сайт html, аорора">
+        <meta name="description" content="всем приветфыфвфыв">
+        <link rel="shortcut icon" href="https://avatars.mds.yandex.net/i?id=6e0b3e864c49535ae0c76ff883d8d6968b5dc22c-12612889-images-thumbs&n=13">
+    </head>
+    <body>
+        <h1>Это H1</h1>
+        <h2>Это H2</h2>
+        <h3>Это H3</h3>
+        <p><b>Этот текст<b> <em>p</em></p>
+        <a href="https://youtu.be/4jYYHaTwWvY?si=l2h_ipwtRlgzULnI"> Имба></a>
+        <ul>
+            <li>Первый</li>
+            <li>Второй</li>
+            <li>Третий</li>
+        <hr>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Наименование фруктов</th>
+                    <th>Кол-во</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Банан</td>
+                    <td> 3</td>
+                    </tr>
+                    <tr>
+                    <td>Апельсин</td>
+                    <td> 2</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">Итог:5, верно ли?</td>
+                </tr>
+            </tfoot>
+        </table>
+        </ul>
+        <form class="" action="first" method="post">
+            <input type="month">
+            <input type="submit" name="" value="Отправить">
+        </form>
+        <div class="">
+            
+        </div>
+    </body>
+</html>>
